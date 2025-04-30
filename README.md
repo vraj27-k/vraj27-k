@@ -26,21 +26,11 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Chart.js](https://img.shields.io/badge/-Chart.js-F3A847?style=flat-square&logo=chart-dot-js&logoColor=black)
 
 ## Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-
-## AI / ML
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F40?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-## DevOps
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ## Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -50,4 +40,26 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
+# Krish Patel's GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishp-dev&show_icons=true&theme=radical)
+
+## Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishp-dev&layout=compact&theme=radical)
+
+## Contributions
+- **Total Contributions:** 70
+  - *From:* Sep 26, 2024 - Present
+- **Current Streak:** 0
+- **Longest Streak:** 3 (Mar 12 - Mar 14)
+
+## GitHub Stats Overview
+- ⭐ **Total Stars Earned:** 0
+- 📊 **Total Commits (2025):** 58
+- 📥 **Total PRs:** 0
+- 🐞 **Total Issues:** 0
+- 📅 **Contributed to (last year):** 0
+
+## Popular Repositories
+- [HEALTH-AND-WELLNESS](https://github.com/vraj27-k/HEALTH-AND-WELLNESS) (Public)
+- [StockSavvy](https://github.com/vraj27-k/StockSavvy) (Public)
