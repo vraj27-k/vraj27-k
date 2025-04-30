@@ -14,9 +14,11 @@
 - 🤔 💡 I'm always open to learning and would love your guidance as I grow in tech!
 - 📫 How to reach me: vrajkankrecha1@gmail.com
 - ⚡ Fun fact: I interact with AI daily—and now I’m learning to create one that talks back intelligently!
+## 📬 Connect with me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jiyashah2406@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile-url/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jiya0805)
+
 ## Languages and Tools:
-![HTML5](![image](https://github.com/user-attachments/assets/c14dc6c4-602a-4668-829b-2f56c77d1998)
-![CSS3](![image](https://github.com/user-attachments/assets/4df569b0-d88d-4336-9aaf-05570a759d65)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
+
