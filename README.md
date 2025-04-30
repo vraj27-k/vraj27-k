@@ -40,7 +40,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
-# Krish Patel's GitHub Stats
+# vraj kankarecha's GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishp-dev&show_icons=true&theme=radical)
 
@@ -59,7 +59,3 @@
 - 📥 **Total PRs:** 0
 - 🐞 **Total Issues:** 0
 - 📅 **Contributed to (last year):** 0
-
-## Popular Repositories
-- [HEALTH-AND-WELLNESS](https://github.com/vraj27-k/HEALTH-AND-WELLNESS) (Public)
-- [StockSavvy](https://github.com/vraj27-k/StockSavvy) (Public)
