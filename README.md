@@ -16,7 +16,7 @@
 - ⚡ Fun fact: I interact with AI daily—and now I’m learning to create one that talks back intelligently!
 ## Languages and Tools:
 ![HTML5](![image](https://github.com/user-attachments/assets/c14dc6c4-602a-4668-829b-2f56c77d1998)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
+![CSS3](![image](https://github.com/user-attachments/assets/4df569b0-d88d-4336-9aaf-05570a759d65)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
