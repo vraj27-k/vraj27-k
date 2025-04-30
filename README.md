@@ -42,20 +42,7 @@
 
 # vraj kankarecha's GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishp-dev&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vraj27-k&show_icons=true&theme=radical)
 
 ## Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishp-dev&layout=compact&theme=radical)
-
-## Contributions
-- **Total Contributions:** 70
-  - *From:* Sep 26, 2024 - Present
-- **Current Streak:** 0
-- **Longest Streak:** 3 (Mar 12 - Mar 14)
-
-## GitHub Stats Overview
-- ⭐ **Total Stars Earned:** 0
-- 📊 **Total Commits (2025):** 58
-- 📥 **Total PRs:** 0
-- 🐞 **Total Issues:** 0
-- 📅 **Contributed to (last year):** 0
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vraj27-k&layout=compact&theme=radical)
